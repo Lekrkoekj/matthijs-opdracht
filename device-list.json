@@ -1,0 +1,240 @@
+[
+    {
+        "name": "Breekhamer 6kg",
+        "img": "https://mediahub.boels.com/m/debfc94dfe8f0c7/medium-10749.jpg",
+        "purpose": "Om in tegels en stucwerk te boren.",
+        "accessories": "1. Beitel Punt - Sloopwerk\n2. Beitel Plat - Tegels af te bikken/slopen\n3. Beitel Spade - Tegels af te bikken\n4. Beitel Sleuf - Om sleuven te maken",
+        "extraCosts": "€9,- per beitel"
+    },
+    {
+        "name": "Breekhamer 11kg",
+        "img": "https://mediahub.boels.com/m/2126a35a97447351/medium-PROG-1925-10709.jpg",
+        "purpose": "Om in vloeren te boren.",
+        "accessories": "1. Beitel Punt - Sloopwerk\n2. Beitel Plat - Tegels af te bikken/slopen\n3. Beitel Spade - Tegels af te bikken\n4. Beitel Sleuf - Om sleuven te maken",
+        "extraCosts": "€9,- per beitel"
+    },
+    {
+        "name": "Breekhamer 18kg",
+        "img": "https://mediahub.boels.com/m/4970a93030485a02/medium-10706.jpg",
+        "purpose": "Voor het slopen van stenen en betonnen muren en het wegbreken van alle soorten vloeren.",
+        "accessories": "1. Beitel Punt - Sloopwerk\n2. Beitel Plat - Tegels af te bikken/slopen\n3. Beitel Spade - Tegels af te bikken\n4. Afbik Beitel 150mm - Tegels af te bikken",
+        "extraCosts": "€11,- per beitel"
+    },
+    {
+        "name": "Behangafstomer",
+        "img": "https://mediahub.boels.com/m/3c6ea4043dc608ce/medium-12801.jpg",
+        "purpose": "Voor het verwijderen van alle soorten behang.",
+        "accessories": "1. Prikroller - maakt gaatjes in het behang waardoor de stoom er beter doorheen komt.",
+        "extraCosts": "€10,- voor 24 uur (Zie AXI → Prikroller)"
+    },
+    {
+        "name": "Tapijtreiniger",
+        "img": "https://mediahub.boels.com/m/776ae8f986ea9088/medium-10141.jpg",
+        "purpose": "Voor het reinigen van tapijt en/of bekleding (banken etc.). Voor en na verhuren dient deze schoon te zijn.",
+        "accessories": "1. Groot mondstuk (Standaard)\n2. Klein mondstuk (9,00 extra)",
+        "extraCosts": "1. Klein mondstuk (€9,00 extra)\n2. Bekledingsreiniger vloeistof (€10,29)\n3. Tapijtreiniger vloeistof (10,29)"
+    },
+    {
+        "name": "Grondboor 80 en 100 mm",
+        "img": "https://mediahub.boels.com/m/6e4b79791b48c614/medium-PROG-312-12326.jpg",
+        "purpose": "De grondboor wordt gebruikt om gaten in de grond (aarde) te boren, zodat hier tuinpalen geplaatst kunnen worden. Vaak wordt dit apparaat gehuurd icm een palenrammer.",
+        "accessories": "Geen.",
+        "extraCosts": "Geen."
+    },
+    {
+        "name": "Palenrammer",
+        "img": "https://mediahub.boels.com/m/2ec27d273fc54eb8/medium-12357.jpg",
+        "purpose": "Dit hulpmiddel wordt gebruikt om tuinpalen de grond in te ‘rammen’. Aan deze tuinpalen worden vaak schuttingen bevestigd.",
+        "accessories": "Geen.",
+        "extraCosts": "Geen."
+    },
+    {
+        "name": "Diamantboormachine",
+        "img": "https://mediahub.boels.com/m/355703f2308ad2c8/large-10528-2.jpg",
+        "purpose": "De diamantboormachine wordt gebruikt om ronde gaten in beton of steen te boren. Hierbij is het belangrijk dat de juiste bijbehorende boor gekozen wordt: de blauwe boor wordt gebruikt voor beton, en de rode voor steen. Bij het boren in beton is het van groot belang dat de machine gekoeld wordt. Dit kan gedaan worden door de waterdruktank mee te verhuren. Ook hier zijn extra kosten aan verbonden.",
+        "accessories": "Diamantboor NAT (Blauw) (beton):\n61 mm €20,00\n81 mm €23,20\n\nDiamantboor STEEN (Rood) (Droog)\n62 mm €23,20\n82 mm €28,80\n112 mm €34,40\n132 mm €34,40\n152 mm €41,60\n162 mm €41,60\n\nJuiste centreerstuk.",
+        "extraCosts": "Afhankelijk van de duur van de verhuur, kunnen de huurprijzen van de accessoires hoger worden.\n\nWaterdruktank (indien er nat geboord gaat worden):\n€12,00 - deze huurprijs blijft hetzelfde"
+    },
+    {
+        "name": "Aggregaat",
+        "img": "https://mediahub.boels.com/m/78f88c31223db474/medium-11635.jpg",
+        "purpose": "De aggregaat wordt gebruikt voor het opwekken van stroom, en wordt voornamelijk gebruikt op plekken waar geen netstroom aangesloten is. Dit apparaat wordt dus meestal buiten gebruikt in boten, voor het opblazen van grote luchtkastelen en andere buitenactiviteiten.\nBij dit apparaat wordt altijd Aspen 4 (4-takt benzine) meeverkocht, hier draait de aggregaat namelijk op.\n\n1 liter Aspen 4 kost €8,39. Het is belangrijk dat het aggregaat altijd vol meegaat met de klant, en dus ook weer met een volle tank terugkomt.",
+        "accessories": "Geen.",
+        "extraCosts": "Aspen 2/4"
+    },
+    {
+        "name": "Verticuteermachine",
+        "img": "https://mediahub.boels.com/m/1698da9102e3d2e6/medium-12350.jpg",
+        "purpose": "De verticuteermachine is een apparaat dat gebruikt wordt voor het omploegen van een gazon. Door de lagers in deze machine, wordt mos en onkruid gefilterd uit de grasmat. Als accessoire hoort er een bak bij die achter het apparaat geplaatst kan worden, om het mos en onkruid op te vangen.",
+        "accessories": "Geen.",
+        "extraCosts": "Geen."
+    },
+    {
+        "name": "Trilplaat",
+        "img": "https://mediahub.boels.com/m/1698da9102e3d2e6/medium-12350.jpg",
+        "purpose": "GAMMA heeft verschillende soorten trilplaten in het assortiment. Namelijk; de elektrische, compacte en ‘normale’ trilplaat. Deze doen alle drie hetzelfde, maar de compacte en normale trilplaat zijn op benzine, Aspen 4.\n\nDe trilplaat wordt gebruikt voor het egaliseren van zand. Dit wordt vaak gedaan voordat er getegeld wordt. Bij het tegelen is het namelijk van groot belang dat de ondergrond vlak is. ",
+        "accessories": "Geen.",
+        "extraCosts": "Geen."
+    },
+    {
+        "name": "Tuinwals",
+        "img": "https://mediahub.boels.com/m/7c9c67d816ce106f/medium-12317.jpg",
+        "purpose": "De tuinwals wordt gebruikt om aarde te egaliseren. Dit artikel dient voor hetzelfde doel als de trilplaat, alleen wordt de tuinwals niet motorisch ondersteund.",
+        "accessories": "Geen.",
+        "extraCosts": "Geen."
+    },
+    {
+        "name": "Handcirkelzaag",
+        "img": "https://mediahub.boels.com/m/33ff4ba18b01383f/medium-11204.jpg",
+        "purpose": "Professionele machine voor het afkorten van bijvoorbeeld hout, MDF of triplex.",
+        "accessories": "Geen.",
+        "extraCosts": "Geen."
+    },
+    {
+        "name": "Decoupeerzaag",
+        "img": "https://mediahub.boels.com/m/74386331b599e5f4/medium-11211.jpg",
+        "purpose": "Wendbare en handzame machines voor het zagen in hout, kunststof en metaal. ook geschikt om cirkels en ronde hoeken mee te zagen.",
+        "accessories": "Geen.",
+        "extraCosts": "Geen."
+    },
+    {
+        "name": "Muursleuvenzaag",
+        "img": "https://mediahub.boels.com/m/1164ba1c65d47ee4/medium-11125.jpg",
+        "purpose": "Machine voor het zagen van sleuven in muren, bijvoorbeeld voor de aanleg van elektriciteitsleidingen.",
+        "accessories": "Geen.",
+        "extraCosts": "Geen."
+    },
+    {
+        "name": "Tegelzaagmachine",
+        "img": "https://mediahub.boels.com/m/130468a62385614d/medium-11106.jpg",
+        "purpose": "Deze machine wordt gebruikt voor het op maat zagen van tegels. Deze elektrische tegelzaag met waterkoeling is geschikt voor het stofvrij zagen van wand- en vloertegels tot circa 40cm.",
+        "accessories": "Geen.",
+        "extraCosts": "Geen."
+    },
+    {
+        "name": "Kettingzaag Elektrisch",
+        "img": "https://mediahub.boels.com/m/77e41968cc3b0cda/medium-12310.jpg",
+        "purpose": "Geschikt voor snoeiwerk of het zagen van hout met een maximale diameter van 10 cm. Bij het innemen van de kettingzaag moet de ketting door ons vervangen worden voor een nieuwe.",
+        "accessories": "Ketting (indien nodig) wanneer mensen een grote klus gaan doen. Gaan mensen maar een paar takjes doen is dit niet nodig.",
+        "extraCosts": "Olie à €4,79 zodat het blad goed doorgesmeerd blijft."
+    },
+    {
+        "name": "Rioolveer",
+        "img": "https://mediahub.boels.com/m/4b6735f7ad27b81b/medium-10403.jpg",
+        "purpose": "Deze veer wordt gebruikt bij een ontstopping in de afvoer van bv. toiletten. Wel is het belangrijk dat de veer alleen gebruikt wordt voor de afvoer, en dat deze niet gelijk in de toiletpot gedaan wordt, want daar is deze te breed voor.\n\nVerder wordt de rioolveer niet gebruikt voor de afvoer van gootstenen. Hier is deze opnieuw te breed voor, en in dit geval zou een ontstoppingsveer - ook in het assortiment bij GAMMA - voldoende moeten zijn.",
+        "accessories": "Geen.",
+        "extraCosts": "Geen."
+    },
+    {
+        "name": "Schrobzaagmachine / reciprozaag",
+        "img": "https://mediahub.boels.com/m/7b30bb72dd2b21bf/medium-PROG-4999-14815.jpg",
+        "purpose": "De schrobzaagmachine - ofwel reciprozaag -  wordt gebruikt als er houtwerk afgekort moet worden - of verzaagd moet worden.",
+        "accessories": "Geen.",
+        "extraCosts": "Geen."
+    },
+    {
+        "name": "Vlak/deltaschuurmachine",
+        "img": "https://mediahub.boels.com/m/5007a6a503c9e0f7/medium-11210.jpg",
+        "purpose": "Deze schuurmachine wordt gebruikt voor het schuren en polijsten van hout, kunststof, metalen en gelakte oppervlakken. Dit is handig om bij moeilijk bereikbare plekken te komen, en om hoeken te schuren/polijsten.",
+        "accessories": "Geen.",
+        "extraCosts": "Schuurpapier moet de klant zelf kopen."
+    },
+    {
+        "name": "Haakse slijper",
+        "img": "https://mediahub.boels.com/m/7599c7da68dd41be/medium-11157.jpg",
+        "purpose": "De haakse slijper is bedoeld voor het doorslijpen van metaal, tegels en steen. Met beide slijpschijven kan er door deze materialen heen gezaagd worden.",
+        "accessories": "Geen.",
+        "extraCosts": "De slijpschijf moet de klant zelf kopen."
+    },
+    {
+        "name": "Excentrische schuurmachine",
+        "img": "https://mediahub.boels.com/m/64ce479321d42619/medium-11264.jpg",
+        "purpose": "Deze schuurmachine is bedoeld om hoeken en randen te schuren op houtwerk.",
+        "accessories": "Geen.",
+        "extraCosts": "Schuurpapier moet de klant zelf kopen."
+    },
+    {
+        "name": "Schaafmachine",
+        "img": "https://mediahub.boels.com/m/7cc3a93ca19faaf6/medium-11208.jpg",
+        "purpose": "Deze machine wordt voornamelijk gebruikt bij deuren etc. Hiermee kun je gedoseerd kleine randen van deuren af halen.",
+        "accessories": "Extra mesjes meegeven aan de klant.",
+        "extraCosts": "Geen."
+    },
+    {
+        "name": "Bandschuurmachine",
+        "img": "https://media.witglobal.net/source/eshop/stmedia/0100/images/std.lang.all/resolutions/category/576px/641282477.jpg",
+        "purpose": "Deze schuurmachine wordt gebruikt op vlakke oppervlaktes.",
+        "accessories": "Geen.",
+        "extraCosts": " Schuurpapier moet de klant zelf kopen."
+    },
+    {
+        "name": "Mortelmixer",
+        "img": "https://mediahub.boels.com/m/62a98a9f0e1b06f3/medium-10512.jpg",
+        "purpose": "Deze machine is bedoeld voor het mengen van mortel en eventueel verf.",
+        "accessories": "Geen.",
+        "extraCosts": "Geen."
+    },
+    {
+        "name": "Kantenschuurmachine",
+        "img": "https://mediahub.boels.com/m/2b0ba35a3ceffef/medium-11282.jpg",
+        "purpose": "Deze machine is bedoeld om kanten te schuren op houtwerk.",
+        "accessories": "Geen.",
+        "extraCosts": "Schuurpads moet de klant er zelf bij kopen. Deze liggen bij de balie."
+    },
+    {
+        "name": "Parketschuurmachine",
+        "img": "https://mediahub.boels.com/m/47fea1d67df07d80/medium-11281.jpg",
+        "purpose": "Deze is bedoeld voor het schuren van parketvloeren.",
+        "accessories": "Geen.",
+        "extraCosts": "Geen."
+    },
+    {
+        "name": "Laminaatsnijder",
+        "img": "https://mediahub.boels.com/m/66e1fa91cd845f89/medium-14696.jpg",
+        "purpose": "De laminaatsnijder wordt gebruikt bij het bewerken van laminaat of pvc. De laminaatsnijder is niet bedoeld voor het verstek snijden van de planken, en dient alleen voor rechte snedes gebruikt te worden voor optimaal gebruik.",
+        "accessories": "Geen.",
+        "extraCosts": "Geen."
+    },
+    {
+        "name": "Tegel/plavuizensnijder 600mm",
+        "img": "https://mediahub.boels.com/m/743cd4c1351ab41b/medium-11122.jpg",
+        "purpose": "De tegel/plavuizensnijder wordt gebruikt bij het snijden van tegels van max. 60 cm. Het is belangrijk dat het mesje van de snijder gecontroleerd wordt voordat deze meegegeven wordt met de klant. De klus verloopt zo wat soepeler voor de klant.",
+        "accessories": "Geen.",
+        "extraCosts": "Geen."
+    },
+    {
+        "name": "Tegelknipper",
+        "img": "https://static.gamma.nl/dam/261735/123",
+        "purpose": "De tegelknipper wordt gebruikt bij het knippen van tegels, de maximale knipbreedte is 33 cm. Het is belangrijk dat de knipper recht afgesteld staat, anders kan het resultaat afwijken. Deze is uitsluitend bedoeld voor halfjes en kwartjes. Er kan namelijk met deze knipper niet schuin geknipt worden.",
+        "accessories": "Geen.",
+        "extraCosts": "Geen."
+    },
+    {
+        "name": "Tegeldonkey",
+        "img": "https://mediahub.boels.com/m/517e4d874f560f9f/medium-13293.jpg",
+        "purpose": "Dit apparaat wordt gebruikt voor het vervoeren en leggen van tegels. Vaak als er iemand gaat klussen met tegels, dan worden deze aangekocht in grote hoeveelheden. Het sjouwen en leggen hiervan wordt vaak ervaren als zwaar, en daarom wordt de tegeldonkey gebruikt.",
+        "accessories": "Geen.",
+        "extraCosts": "Geen."
+    },
+    {
+        "name": "Waterbedpomp",
+        "img": "https://mediahub.boels.com/m/1db20c5d7e6e3484/medium-10220.jpg",
+        "purpose": "De waterbedpomp gebruik je voor het leegpompen van waterbedden. Deze mag niet gebruikt worden voor sloten wegpompen.",
+        "accessories": "Gele slang met blauwe kop en gele slang met een kale kop meegeven.",
+        "extraCosts": "Geen."
+    },
+    {
+        "name": "Dompelpomp",
+        "img": "https://mediahub.boels.com/m/2bbc1d75a5358b60/medium-10165.jpg",
+        "purpose": "De dompelpomp wordt gebruikt voor het wegpompen van overtollig water in bijvoorbeeld kelders.",
+        "accessories": "Gele slang met aan één kant een kale kop.",
+        "extraCosts": "Geen."
+    },
+    {
+        "name": "Betonslijpmachine",
+        "img": "https://mediahub.boels.com/m/315867d00f1661e3/medium-15223.jpg",
+        "purpose": "Deze machine is bedoeld voor het slijpen van beton. Hiermee kun je bijvoorbeeld een vloer mee gelijkmaken.",
+        "accessories": "Geen.",
+        "extraCosts": "Geen."
+    }
+]

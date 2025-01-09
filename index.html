@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Informatie verhuurapparaten</title>
+        <link rel="icon" type="image/x-icon" href="https://www.gamma.nl/favicon.ico">
+        <link rel="stylesheet" href="styles.css">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Overpass:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+    </head>
+    <body>
+        <nav>
+            <h1>Verhuurapparaten</h1>
+        </nav>
+        <main>
+            <input id="search-bar" oninput="Search()">
+            <div id="device-list">
+                <a href="./apparaat" id="tile-template" target="apparaat-pagina">
+                    <div class="device-tile">
+                        <img data-field="device-image"src="https://mediahub.boels.com/m/debfc94dfe8f0c7/medium-10749.jpg">
+                        <span data-field="device-name">Template</span>
+                    </div>
+                </a>
+                <p id="no-results-text" style="display: none;">Geen resultaten.</p>
+            </div>
+        </main>
+        <script src="homepage-load.js"></script>
+        <script src="search.js"></script>
+    </body>
+</html>
