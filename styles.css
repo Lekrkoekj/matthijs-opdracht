@@ -26,6 +26,10 @@ input#search-bar {
     border-radius: 7.5px;
 }
 
+input#search-bar::placeholder {
+    font-style: italic;
+}
+
 nav h1 {
     margin: 0px 0px 0px 10px;
     align-content: center;
@@ -103,4 +107,13 @@ html, body {
 
 nav img {
     width: 100px;
+}
+
+.back-arrow {
+    height: 30px;
+    width: 30px;
+    border: 3px solid white;
+    border-radius: 100%;
+    margin-right: 10px;
+    cursor: pointer;
 }

@@ -9,7 +9,10 @@ function fetchDevices() {
         return response.json();
     })
     .then(data => {
-        devices = data;
+        let rawDeviceList = data;
+        
+        let sortedDeviceList = rawDeviceList.sort((a, b) => a.name.localeCompare(b.name));
+        devices = sortedDeviceList;
         console.log("devices fetched")
         loadTiles();
     })

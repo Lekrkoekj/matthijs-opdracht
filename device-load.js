@@ -32,3 +32,13 @@ function loadDevicePage() {
     document.querySelector('[data-field="device-accessories"]').innerText = device.accessories;
     document.querySelector('[data-field="device-extra-costs"]').innerText = device.extraCosts;
 }
+
+// Return to main tab
+function goBackToOriginalTab() {
+    if (window.opener) {
+        window.opener.focus();
+        window.close();
+    } else {
+        window.location = "./index.html";
+    }
+}
